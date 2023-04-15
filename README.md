@@ -12,11 +12,11 @@
   ( Android with kotlin ), PS and Ui&Ux .
   
   
-  - 🔭 I’m currently a student at *FCI*
+  - 🔭 I’m currently a student at **FCI**
 
-  - 🌱 I’m currently learning *Android with Kotlin*
+  - 🌱 I’m currently learning **Android with Kotlin**
 
-  - 💬 Ask me about *C++, Kotlin, Android Studio*
+  - 💬 Ask me about **C++, Kotlin, Android Studio**
 
 
   ## <h3 align="left"> 🛠️ Programming languages and Tools : </h3>
@@ -32,3 +32,4 @@
 &emsp;
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
 </p>
+href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
