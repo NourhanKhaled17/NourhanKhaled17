@@ -9,7 +9,7 @@
 
   I'm a student at computer science & information , at 3rd computer science , I'm interested in Mobile Application development 
                                
-  ( Android with kotlin ), PS and Ui&Ux .
+  ( Android with kotlin ), Problem Solving and Ui&Ux .
   
   
   - 🔭 I’m currently a student at **FCI**
