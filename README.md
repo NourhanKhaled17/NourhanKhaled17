@@ -7,16 +7,16 @@
   </p>
   
 
-  I'm a student at computer science & information , at 3rd computer science , I'm interested in Mobile Application development 
+  I'm a student at computer science & information , at 4rd computer science , I'm interested in Mobile Application development 
                                
   ( Android with kotlin ), Problem Solving and Ui&Ux .
   
   
   - 🔭 I’m currently a student at **FCI**
 
-  - 🌱 I’m currently learning **Android with Kotlin**
+  - 🌱 I’m currently learning **Android with Dart**
 
-  - 💬 Ask me about **C++, Kotlin, Android Studio**
+  - 💬 Ask me about **C++, Kotlin, Dart, Android Studio**
 
 
   ## <h3 align="left"> 🛠️ Programming languages and Tools : </h3>
@@ -26,4 +26,5 @@
 &emsp;<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 &emsp;  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 &emsp;<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
+&emsp;<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dart_logo.png/128px-Dart_logo.png" alt="Dart" width="40" height="40"/> </a> 
 &emsp;<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a></p>
