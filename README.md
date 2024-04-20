@@ -14,7 +14,7 @@
   
   - 🔭 I’m currently a student at **FCI**
 
-  - 🌱 I’m currently learning **Android with Dart**
+  - 🌱 I’m currently learning **Android & Flutter Development.**
 
   - 💬 Ask me about **C++, Kotlin, Dart, Android Studio**
 
