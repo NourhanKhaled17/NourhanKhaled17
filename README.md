@@ -1,22 +1,19 @@
 <h1 align="center">Hi, I'm Nourhan Khaled 👋</h1>
 <p align="center">  
     <a href="mailto:nk1327@fayoum.edu.eg"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-    <a href="https://twitter.com/Nour_Khaled174"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/nourhan-khaled-28434b255"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
     <a href="https://www.facebook.com/nour.elgendy.3954?mibextid=ZbWKwL"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?        style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
   </p>
   
 
-  I'm a student at computer science & information , at 4rd computer science , I'm interested in Mobile Application development 
+  Graduate of computer science , I'm interested in Mobile Application development 
                                
-  ( Android with Dart ), Problem Solving and Ui&Ux .
+  ( Flutter ) and Ui&Ux .
   
-  
-  - 🔭 I’m currently a student at **FCI**
 
   - 🌱 I’m currently learning **Android & Flutter Development.**
 
-  - 💬 Ask me about **C++, Kotlin, Dart, Android Studio**
+  - 💬 Ask me about **C++, Kotlin, Dart, Android Studio, Flutter**
 
 
   ## <h3 align="left"> 🛠️ Programming languages and Tools : </h3>
